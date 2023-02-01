@@ -1,6 +1,6 @@
 ![Header](https://github.com/NatashaSmolyak/NatashaSmolyak/blob/main/assets/github-header-image.png)
 
-### <align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </center>
+### <div align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </center>
 
 ### <div align="center"> Tools and Languages </div>
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
@@ -12,7 +12,7 @@
 [![BasicJS](https://img.shields.io/badge/-Basic_Java_Script-103606?style=for-the-badge&logo=JavaScript)](https://github.com/NatashaSmolyak/Java-Script)
 <hr>
 
-### <center> <u>My stats</u></center>
+### <div align="center"> My Stats </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NatashaSmolyak&theme=gotham)](https://git.io/streak-stats)
 
