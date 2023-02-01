@@ -16,4 +16,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NatashaSmolyak&theme=gotham)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaSmolyak&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaSmolyak&show_icons=true&theme=radical)
