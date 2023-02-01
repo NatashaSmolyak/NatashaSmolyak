@@ -3,8 +3,8 @@
 ### Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course.
 
 ### Tools and Languages
-![Postman](https://img.shields.io/badge/-Postman-103606?style=for-the-badge&logo=Postman)
-![SQL](https://img.shields.io/badge/-SQL-103606?style=for-the-badge&logo=SQL)
+[![Postman](https://img.shields.io/badge/-Postman-103606?style=for-the-badge&logo=Postman)](https://github.com/NatashaSmolyak/Postman)
+[![SQL](https://img.shields.io/badge/-SQL-103606?style=for-the-badge&logo=SQL)](https://github.com/NatashaSmolyak/SQL)
 
 
 Follow Me
