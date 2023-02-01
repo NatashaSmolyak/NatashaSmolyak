@@ -1,8 +1,8 @@
 ![Header](https://github.com/NatashaSmolyak/NatashaSmolyak/blob/main/assets/github-header-image.png)
 
-### <center> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </center>
+### <align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </center>
 
-### <center> <u>Tools and Languages</u></center>
+### <div align="center"> Tools and Languages </div>
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
 [![Postman](https://img.shields.io/badge/-Postman-103606?style=for-the-badge&logo=Postman)](https://github.com/NatashaSmolyak/Postman)
 [![SQL](https://img.shields.io/badge/-SQL-103606?style=for-the-badge&logo=PostgreSQL)](https://github.com/NatashaSmolyak/SQL)
