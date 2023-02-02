@@ -1,13 +1,9 @@
 ![Header](https://github.com/NatashaSmolyak/NatashaSmolyak/blob/main/assets/github-header-image.png)
-<<<<<<< HEAD
-### <div align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </div>
-## <div align="center"> Tools and Languages </div>
-=======
 
-### <div align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </center>
+### <div align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </div>
 
 ### <div align="center"> Tools and Languages </div>
->>>>>>> 97189409d53127c86901278955a1ecaaf631e41f
+
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
 [![Postman](https://img.shields.io/badge/-Postman-103606?style=for-the-badge&logo=Postman)](https://github.com/NatashaSmolyak/Postman)
 [![SQL](https://img.shields.io/badge/-SQL-103606?style=for-the-badge&logo=PostgreSQL)](https://github.com/NatashaSmolyak/SQL)
@@ -18,12 +14,8 @@
 [![Charles](https://img.shields.io/badge/-Charles-103606?style=for-the-badge&logo=traefikproxy)](https://github.com/NatashaSmolyak/Charles)
 <hr>
 
-<<<<<<< HEAD
-## <div align="center"> My Stats </div>
-=======
 ### <div align="center"> My Stats </div>
 
->>>>>>> 97189409d53127c86901278955a1ecaaf631e41f
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NatashaSmolyak&theme=gotham)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaSmolyak&show_icons=true&theme=radical)
