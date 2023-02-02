@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/badge/-github-103606?style=for-the-badge&logo=git)](https://github.com/NatashaSmolyak/GitHub/)
 [![JMeter](https://img.shields.io/badge/-JMeter-103606?style=for-the-badge&logo=apachejmeter)](https://github.com/NatashaSmolyak/JMeter)
 [![BasicJS](https://img.shields.io/badge/-Basic_Java_Script-103606?style=for-the-badge&logo=JavaScript)](https://github.com/NatashaSmolyak/Java-Script)
-[![Charles](https://img.shields.io/badge/-Charles-103606?style=for-the-badge&logo=traefikproxy)](https://github.com/NatashaSmolyak/Java-Script)
+[![Charles](https://img.shields.io/badge/-Charles-103606?style=for-the-badge&logo=traefikproxy)](https://github.com/NatashaSmolyak/Charles)
 <hr>
 
 ## <div align="center"> My Stats </div>
