@@ -2,7 +2,7 @@
 
 ### <div align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </div>
 
-### <div align="center"> Tools and Languages </div>
+## Tools and Languages
 
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
 [![Postman](https://img.shields.io/badge/-Postman-103606?style=for-the-badge&logo=Postman)](https://github.com/NatashaSmolyak/Postman)
@@ -14,7 +14,7 @@
 [![Charles](https://img.shields.io/badge/-Charles-103606?style=for-the-badge&logo=traefikproxy)](https://github.com/NatashaSmolyak/Charles)
 <hr>
 
-### <div align="center"> My Stats </div>
+## My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NatashaSmolyak&theme=gotham)](https://git.io/streak-stats)
 
