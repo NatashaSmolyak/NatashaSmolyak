@@ -1,6 +1,7 @@
 ![Header](https://github.com/NatashaSmolyak/NatashaSmolyak/blob/main/assets/github-header-image.png)
 
-### <div align="center"> Hello! I'm a beginner QA engineer. Trainee of commercial practice on Ksendzov QA course. </div>
+# <div align="center"> Welcome To My GitHub Profile! </div>
+## I'm a beginner QA engineer. Trainee of commercial practice on [Ksendzov QA course](https://ksendzov.com/). My experience on real commercial projects:
 
 ## Tools and Languages
 
