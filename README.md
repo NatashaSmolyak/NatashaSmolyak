@@ -1,8 +1,16 @@
 ![Header](https://github.com/NatashaSmolyak/NatashaSmolyak/blob/main/assets/github-header-image.png)
 
 # <div align="center"> Welcome To My GitHub Profile! </div>
-## I'm a beginner QA engineer. Trainee of commercial practice on [Ksendzov QA course](https://ksendzov.com/). My experience on real commercial projects:
+## I'm a beginner QA engineer. Trainee of commercial practice on [Ksendzov QA course](https://ksendzov.com/).
+### My experience on real commercial projects (QA internship, remote work):
+**1. Web-site capital.com (prod Version)**
+- Testing fintech website (integration, ad-hoc, smoke, exploratory, regression, cross-browser etc.);
+- Bug reporting;
+- Retesting.
 
+**2. Identité MFA (stage Version)**
+- Web, mobile testing (integration, smoke, regression, retesting, cross-browser etc.);
+- Bug reporting.
 ## Tools and Languages
 
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
