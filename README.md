@@ -1,7 +1,7 @@
 ![Header](https://github.com/NatashaSmolyak/NatashaSmolyak/blob/main/assets/github-header-image.png)
 
 # <div align="center"> Welcome To My GitHub Profile! </div>
-## I'm a beginner QA engineer. Trainee of commercial practice on [Ksendzov QA course](https://ksendzov.com/).
+## I'm a beginner QA engineer. Trainee of commercial practice on [Software testing course by Vadim Ksendzov](https://ksendzov.com/).
 ### My experience on real commercial projects (internship, remote work):
 **1. Web-site capital.com (prod Version)**
 - Testing fintech website (ad-hoc, smoke, exploratory, regression, retesting);
