@@ -11,10 +11,11 @@
 - Bug reporting.
 ```
 **2. Identité MFA (stage Version)**
-- Web, mobile testing (smoke, regression, retesting);
+```- Web, mobile testing (smoke, regression, retesting);
 - Integration testing;
 - Сross-browser and cross-platform testing;
 - Bug reporting.
+```
 ## Tools and Languages
 
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
