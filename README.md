@@ -28,7 +28,7 @@
 
 ## My Stats
 
-<div id="user-content-badges" align="center" dir="auto">
+<div id="user-content-badges" align="left" dir="auto">
 <p dir="auto"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://streak-stats.demolab.com/?user=NatashaSmolyak&theme=gotham" style="max-width: 100%;"></a></p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaSmolyak&show_icons=true&theme=radical)
