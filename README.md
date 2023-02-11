@@ -6,14 +6,14 @@
 **1. Web-site capital.com (prod Version)**
 
 ```
-- Testing fintech website (ad-hoc, smoke, exploratory, regression, retesting);
+- Testing fintech website (ad-hoc, smoke, exploratory, regression, re-tests);
 - Localization and internationalization testing;
 - Сross-browser and cross-platform testing;
 - Bug reporting.
 ```
 **2. Identité MFA (stage Version)**
 ```
-- Web, mobile, WinApp testing (smoke, regression, retesting);
+- Web, mobile, WinApp testing (smoke, regression, re-tests);
 - Integration testing;
 - Сross-browser and cross-platform testing;
 - Bug reporting.
