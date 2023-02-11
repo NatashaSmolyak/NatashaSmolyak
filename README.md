@@ -5,13 +5,15 @@
 ### My experience on real commercial projects (internship, remote work):
 **1. Web-site capital.com (prod Version)**
 
-```- Testing fintech website (ad-hoc, smoke, exploratory, regression, retesting);
+```
+- Testing fintech website (ad-hoc, smoke, exploratory, regression, retesting);
 - Localization and internationalization testing;
 - Сross-browser and cross-platform testing;
 - Bug reporting.
 ```
 **2. Identité MFA (stage Version)**
-```- Web, mobile testing (smoke, regression, retesting);
+```
+- Web, mobile testing (smoke, regression, retesting);
 - Integration testing;
 - Сross-browser and cross-platform testing;
 - Bug reporting.
