@@ -13,7 +13,7 @@
 ```
 **2. Identité MFA (stage Version)**
 ```
-- Web, mobile testing (smoke, regression, retesting);
+- Web, mobile, WinApp testing (smoke, regression, retesting);
 - Integration testing;
 - Сross-browser and cross-platform testing;
 - Bug reporting.
