@@ -14,8 +14,7 @@
 **2. Identité MFA (stage Version)**
 ```
 - Web, Mobile, Desktop testing (smoke, regression, re-tests);
-- Integration testing;
-- Сross-browser and cross-platform testing;
+- Сross-browser, cross-platform testing;
 - Bug reporting.
 ```
 ## Tools and Languages
