@@ -9,14 +9,14 @@
 - Testing fintech website (ad-hoc, smoke, exploratory, regression, re-tests);
 - Localization and internationalization testing;
 - Сross-browser and cross-platform testing;
-- Bug reporting.
+- Bug detecting and reporting.
 ```
 **2. Identité MFA (stage Version)**
 ```
-- Web, Mobile, Desktop testing (smoke, regression, re-tests);
-- Integration testing;
-- Сross-browser, cross-platform testing;
-- Bug reporting.
+- Functional testing of mobile, web, desktop applications;
+- Smoke, regression testing, re-tests;
+- Cross-browser and cross-platform testing;
+- Bug detecting and reporting;
 ```
 ## Tools and Languages
 
