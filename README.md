@@ -3,7 +3,15 @@
 # <div align="center"> Welcome To My GitHub Profile! </div>
 ## I'm a beginner QA engineer. Trainee of commercial practice on [Software testing course by Vadim Ksendzov](https://ksendzov.com/).
 ### My experience on real commercial projects (internship, remote work):
-**1. Web-site capital.com (prod Version)**
+**1. Identité MFA (stage Version)**
+```
+- Functional testing of mobile, web, desktop applications;
+- Smoke, regression testing, re-tests;
+- Cross-browser and cross-platform testing;
+- Bug detecting and reporting.
+```
+
+**2. Web-site capital.com (prod Version)**
 
 ```
 - Daily smoke testing;
@@ -13,13 +21,7 @@
 - Localization testing;
 - Bug detecting and reporting.
 ```
-**2. Identité MFA (stage Version)**
-```
-- Functional testing of mobile, web, desktop applications;
-- Smoke, regression testing, re-tests;
-- Cross-browser and cross-platform testing;
-- Bug detecting and reporting;
-```
+
 ## Tools and Languages
 
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
