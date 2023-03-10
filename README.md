@@ -5,9 +5,9 @@
 ### My experience on real commercial projects (internship, remote work):
 **1. Identité MFA (stage Version)**
 ```
-- Functional testing of mobile, web, desktop applications;
+- Functional testing of Mobile, Web, Desktop applications;
 - Smoke, regression testing, re-tests;
-- Cross-browser and cross-platform testing;
+- Cross-browser, cross-platform testing;
 - Bug detecting and reporting.
 ```
 
@@ -22,7 +22,7 @@
 - Bug detecting and reporting.
 ```
 
-## Tools and Languages
+## Skills
 
 [![DevTools](https://img.shields.io/badge/-devtools-103606?style=for-the-badge&logo=dev.to)](https://github.com/NatashaSmolyak/DevTools)
 [![Postman](https://img.shields.io/badge/-Postman-103606?style=for-the-badge&logo=Postman)](https://github.com/NatashaSmolyak/Postman)
