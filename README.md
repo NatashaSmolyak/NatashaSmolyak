@@ -8,6 +8,7 @@
 - Functional testing of Mobile, Web, Desktop applications;
 - Smoke, regression testing, re-tests;
 - Cross-browser, cross-platform testing;
+- Integration testing;
 - Bug detecting and reporting.
 ```
 
